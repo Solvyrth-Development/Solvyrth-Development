@@ -103,7 +103,7 @@ me.say_hi()
 | Plateforme | Domaine | Status |
 |:----------:|:-------:|:------:|
 | <img src="https://img.shields.io/badge/Udemy-EC5252?style=flat-square&logo=udemy&logoColor=white"/> | Python, Développement Web | ✅ Complété |
-| <img src="https://img.shields.io/badge/Dyma-6C63FF?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=white"/> | Python, JavaScript | ✅ Complété |
+| <img src="https://img.shields.io/badge/Dyma-6C63FF?style=flat-square&logo=bookstack&logoColor=white"/> | Python, JavaScript | ✅ Complété |
 
 ---
 
