@@ -93,7 +93,7 @@ me.say_hi()
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Solvyrth-Development&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=Solvyrth-Development&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies"/>
 </a>
 
 </div>
