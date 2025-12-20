@@ -72,7 +72,7 @@ me.say_hi()
 <div align="center">
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Solvyrth-Development&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Solvyrth-Development&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
