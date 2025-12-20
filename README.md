@@ -92,7 +92,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Solvyrth-Development&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&cache=1" alt="Trophies"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Solvyrth-Development&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
